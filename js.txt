@@ -1,0 +1,7 @@
+scan
+https://github.com/mebjas/html5-qrcode.git
+scanapp.org
+
+create
+https://davidshimjs.github.io/qrcodejs/
+https://danielgjackson.github.io/qrcodejs/
